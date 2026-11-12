@@ -302,7 +302,7 @@ This is the first step of a longer pipeline. It does not cover:
 
 I am building a full toolkit that covers these steps, with tested scripts and worked examples on public data. I will only build it if enough people need it.
 
-**If it would save you time, join the waitlist: <WAITLIST_LINK>**
+**If it would save you time, [join the waitlist](https://docs.google.com/forms/d/e/1FAIpQLSf3vO4kPcufdBoDS9asjNUbcrPNf57MaE0wZWvTag6T5JITTQ/viewform).**
 
 It takes one minute. It also asks what you are stuck on, so I build the right thing.
 
@@ -315,7 +315,7 @@ It takes one minute. It also asks what you are stuck on, so I build the right th
 | R | 4.3.3 with data.table and ggplot2 | 4.3.1 with data.table and ggplot2 |
 | ADMIXTURE (optional step) | 1.4.0 | 1.3.0 |
 
-Both setups gave the same results for steps 1 to 5. Every number and figure on this page comes from the Linux run.
+Both setups gave the same results for every step, including the optional ADMIXTURE check. Every number and figure on this page comes from the Linux run.
 
 ## References
 
