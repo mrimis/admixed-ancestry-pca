@@ -1,4 +1,5 @@
-title: "Global ancestry and PCA for admixed cohorts: a PLINK 2 and R tutorial"
+title: "Global ancestry and PCA for admixed cohorts"
+tagline: "A PLINK 2 and R tutorial"
 description: "A worked tutorial on public 1000 Genomes data. QC, relatedness, LD pruning, PCA projection and global ancestry for admixed cohorts, with five common mistakes shown in real numbers."
 author: Mrinal Mishra
 lang: en

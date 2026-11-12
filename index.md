@@ -1,5 +1,5 @@
 ---
-title: "Global ancestry and PCA for admixed cohorts: a PLINK 2 and R tutorial"
+title: "Global ancestry and PCA for admixed cohorts"
 description: "A worked tutorial on public 1000 Genomes data. QC, relatedness, LD pruning, PCA projection and global ancestry for admixed cohorts, with five common mistakes shown in real numbers."
 ---
 
