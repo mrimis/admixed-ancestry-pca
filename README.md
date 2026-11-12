@@ -18,9 +18,11 @@ You have genotypes from an admixed cohort. You need ancestry covariates for a GW
 **Level:** you can run a shell script and read R. No prior PCA experience needed.
 
 > [!NOTE]
-> **Want the full toolkit?** This tutorial is step one. I am building the rest: merging your own data, three-way admixture, local ancestry, GWAS and PRS.
+> **Would a full toolkit be useful to you?** This tutorial is step one. The rest would cover merging your own data, three-way admixture, local ancestry, GWAS and PRS. I will only build it if enough people need it.
 >
-> **Join the waitlist: https://forms.gle/hcE9H16EEQXfbiyc7**
+> **Tell me in one minute: https://forms.gle/hcE9H16EEQXfbiyc7**
+>
+> A "not needed" answer helps as much as a yes. Email is optional.
 
 ---
 
@@ -310,9 +312,9 @@ This is the first step of a longer pipeline. It does not cover:
 I am building a full toolkit that covers these steps, with tested scripts and worked examples on public data. I will only build it if enough people need it.
 
 > [!IMPORTANT]
-> **If it would save you time, join the waitlist: https://forms.gle/hcE9H16EEQXfbiyc7**
+> **Would this toolkit be useful to you? Tell me in one minute: https://forms.gle/hcE9H16EEQXfbiyc7**
 >
-> It takes one minute. It also asks what you are stuck on, so I build the right thing.
+> The form asks what you are stuck on and which parts you would use. A "not needed" answer helps as much as a yes. Email is optional.
 
 ## Tested with
 
