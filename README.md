@@ -2,6 +2,8 @@
 
 A worked tutorial with PLINK 2 and R on public 1000 Genomes data.
 
+Read it as a web page: https://mrimis.github.io/admixed-ancestry-pca/
+
 You have genotypes from an admixed cohort. You need ancestry covariates for a GWAS or a PRS. Most tutorials show the commands. This one also shows what breaks, with real numbers from a real run.
 
 **What you get at the end**
